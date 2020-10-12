@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>edit</title>
+    <g id="edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="作品描述3">
+            <rect id="矩形" stroke="#979797" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0.5" y="0.5" width="19" height="19"></rect>
+            <path d="M17,16 L17,18 L3,18 L3,16 L17,16 Z M11.5009564,3.08495021 L13.0982274,4.28858025 L14.6954984,5.4922103 C15.1365726,5.82458356 15.2246921,6.45158662 14.8923189,6.89266083 L9.15617379,14.5047825 L5.39590653,14.5099052 L4.36436073,10.8938923 L10.1005058,3.28177069 C10.4328791,2.84069648 11.0598821,2.75257695 11.5009564,3.08495021 Z M11.2312217,5.10454033 L6.58632702,11.2685238 L6.88643146,12.5319119 L8.18359804,12.4721538 L12.8284927,6.30817037 L11.2312217,5.10454033 Z" id="Combined-Shape" fill="#0F5BFF"></path>
+        </g>
+    </g>
+</svg>

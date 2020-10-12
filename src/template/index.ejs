@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Cache" content="no-cache">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>设计导航-好设计从这里开始|Uxmap</title>
+    <link rel="shortcut icon" href="https://images.psketch.com/ico_uxmap.png" type="image/x-icon" title="百度搜索"/>
+    <meta name="baidu-site-verification" content="U6UNhSKh0I" />
+    <meta name="360-site-verification" content="6107afb616b93c01148940683f726aec" />
+    <meta name="keywords" content="设计导航,破解工具,优质公号,素材资源,灵感采集,设计规范,常用查询,设计配色,矢量图标,在线工具,矢量图标,设计图库,设计字体,威客任务,大厂招聘,设计师网址导航,设计网站,设计网站大全,免费素材,图片素材,psd素材,sketch素材,photoshop素材">
+    <meta name="description" content="优质设计站轻松添加收录，聚合常用设计站点快捷直达，PS,SKetch,principle,C4D免费设计工具下载，优质设计公众号作者,设计大牛推荐，Sketch，样机，插画资源站点导航，热门设计论坛，社区站点推荐，常用设计尺寸规范，字体设计，字体版权查询，以图搜图，在线优秀设计工具搜罗，视觉设计配色，矢量图标，免费高清商用图片站点聚合，设计威客任务站收录，大厂招聘站点直达。">
+    <link href="https://cdn.bootcdn.net/ajax/libs/iview/3.1.5/styles/iview.css" rel="stylesheet">
+    <link rel="stylesheet" id="main-style" href="<%= htmlWebpackPlugin.files.css[0] %>">
+    <style>
+        body,html{padding: 0px;margin: 0px;user-select: none;}
+        .crisp-client .crisp-1rjpbb7 .crisp-1rf4xdh a.crisp-kquevr{
+            position: fixed !important;
+            top: 0px !important;
+            right: -100px !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app"></div>
+    <script type="text/javascript" src="<%= htmlWebpackPlugin.files.js[0] %>"></script>
+    <script type="text/javascript" src="<%= htmlWebpackPlugin.files.js[1] %>"></script>
+    <input type="hidden" id="skin" value="{{tpl.skin}}"/>
+    <script type="text/javascript">
+        setTimeout(function() {
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?6b5408a5e115659f12f1c98a204a54f0";
+                var s = document.getElementsByTagName("script")[0]; 
+                s.parentNode.insertBefore(hm, s);
+            })();
+            window.$crisp=[];
+            window.CRISP_WEBSITE_ID="34eb5d26-660a-41b7-ba36-0cb6f801098c";
+            (function(){
+                d=document;
+                s=d.createElement("script");
+                s.src="https://client.crisp.chat/l.js";
+                s.async=1;
+                d.getElementsByTagName("head")[0].appendChild(s);
+            })();
+        }, 2000);
+    </script>
+</body>
+</html>

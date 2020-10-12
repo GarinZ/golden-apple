@@ -1,0 +1,9 @@
+{
+  "link-hover-color": "color(primary-color tint(20%))",
+  "link-hover-color-80": "color(primary-color tint(80%))",
+  "link-hover-color-90": "color(primary-color tint(90%))",
+  "link-active-color": "color(primary-color shade(5%))",
+  "selected-color": "color(primary-color a(90%))",
+  "selected-color-20": "color(primary-color a(20%))"
+}
+
